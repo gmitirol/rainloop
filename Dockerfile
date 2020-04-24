@@ -1,4 +1,4 @@
-FROM gmitirol/alpine39-php72:v1
+FROM gmitirol/alpine311-php73:v1
 LABEL maintainer="Martin Pircher <martin.pircher@i-med.ac.at>"
 
 # rainloop version

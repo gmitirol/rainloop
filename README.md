@@ -11,7 +11,7 @@ webmailer licensed under [AGPL v3](http://www.gnu.org/licenses/agpl-3.0.html).
 ## Docker container
 
 - RainLoop Webmail Community Edition
-- Alpine Linux 3.9 with nginx and PHP 7.2; base image [gmitirol/alpine39-php72](https://hub.docker.com/r/gmitirol/alpine39-php72/)
+- Alpine Linux 3.11 with nginx and PHP 7.3; base image [gmitirol/alpine311-php73](https://hub.docker.com/r/gmitirol/alpine311-php73/)
 - PHP PDO extensions: SQLite
 - PHP Caching extensions: OpCache, APCu
 - PHP Directory extensions: LDAP
